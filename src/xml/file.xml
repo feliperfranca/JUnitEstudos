@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<agenda>
+		<usuario id="1">
+			<nome>Adriana Cardozo</nome>
+			<telefone>1149999950</telefone>
+			<idade>50</idade>
+			<estado>São Paulo</estado>
+		</usuario>
+		<usuario id="2">
+			<nome>André Durval</nome>
+			<telefone>1157999942</telefone>
+			<idade>58</idade>
+			<estado>Rio Grande do Sul</estado>
+		</usuario>
+		<usuario id="3">
+			<nome>Bruna Emanuelle</nome>
+			<telefone>1155999944</telefone>
+			<idade>56</idade>
+			<estado>Bahia</estado>
+		</usuario>
+		<usuario id="4">
+			<nome>Claudio Araújo</nome>
+			<telefone>1124999975</telefone>
+			<idade>25</idade>
+			<estado>Paraná</estado>
+		</usuario>
+		<usuario id="5">
+			<nome>Elaine Costa</nome>
+			<telefone>1135999964</telefone>
+			<idade>36</idade>
+			<estado>Santa Catarina</estado>
+		</usuario>
+		<usuario id="6">
+			<nome>Fernanda Moraes</nome>
+			<telefone>1153999946</telefone>
+			<idade>54</idade>
+			<estado>Goiás</estado>
+		</usuario>
+		<usuario id="7">
+			<nome>Gilmara Oliveira</nome>
+			<telefone>1125999974</telefone>
+			<idade>26</idade>
+			<estado>Piauí</estado>
+		</usuario>
+		<usuario id="8">
+			<nome>Henrique Santos</nome>
+			<telefone>1137999962</telefone>
+			<idade>38</idade>
+			<estado>Paraíba</estado>
+		</usuario>
+		<usuario id="9">
+			<nome>José Silva</nome>
+			<telefone>1141999958</telefone>
+			<idade>42</idade>
+			<estado>Maranhão</estado>
+		</usuario>
+		<usuario id="10">
+			<nome>Larissa Souza</nome>
+			<telefone>1128999971</telefone>
+			<idade>29</idade>
+			<estado>Pernambuco</estado>
+		</usuario>
+		<usuario id="11">
+			<nome>Lucimara Vieira</nome>
+			<telefone>1138999961</telefone>
+			<idade>39</idade>
+			<estado>Ceará</estado>
+		</usuario>
+		<usuario id="12">
+			<nome>Maria Araújo</nome>
+			<telefone>1132999967</telefone>
+			<idade>33</idade>
+			<estado>Rio Grande do Norte</estado>
+		</usuario>
+		<usuario id="13">
+			<nome>Patricia Costa</nome>
+			<telefone>1131999968</telefone>
+			<idade>32</idade>
+			<estado>Pará</estado>
+		</usuario>
+		<usuario id="14">
+			<nome>Ronaldo Moraes</nome>
+			<telefone>1125999974</telefone>
+			<idade>26</idade>
+			<estado>Mato Grosso</estado>
+		</usuario>
+		<usuario id="15">
+			<nome>Sandra Oliveira</nome>
+			<telefone>1174999925</telefone>
+			<idade>75</idade>
+			<estado>Tocantins</estado>
+		</usuario>
+		<usuario id="16">
+			<nome>Sandro Santos</nome>
+			<telefone>1146999953</telefone>
+			<idade>47</idade>
+			<estado>Alagoas</estado>
+		</usuario>
+		<usuario id="17">
+			<nome>Sérgio Silva</nome>
+			<telefone>1125999974</telefone>
+			<idade>26</idade>
+			<estado>Rio de Janeiro</estado>
+		</usuario>
+		<usuario id="18">
+			<nome>Alberto Souza</nome>
+			<telefone>1142999957</telefone>
+			<idade>43</idade>
+			<estado>Mato Grosso do Sul</estado>
+		</usuario>
+		<usuario id="19">
+			<nome>Roberto Vieira</nome>
+			<telefone>1130999969</telefone>
+			<idade>31</idade>
+			<estado>Espírito Santo</estado>
+		</usuario>
+		<usuario id="20">
+			<nome>Juliana Araújo</nome>
+			<telefone>1111999988</telefone>
+			<idade>12</idade>
+			<estado>Sergipe</estado>
+		</usuario>
+		<usuario id="21">
+			<nome>Suelen Costa</nome>
+			<telefone>1158999941</telefone>
+			<idade>59</idade>
+			<estado>Amazonas</estado>
+		</usuario>
+		<usuario id="22">
+			<nome>Ricardo Moraes</nome>
+			<telefone>1144999955</telefone>
+			<idade>45</idade>
+			<estado>Rondônia</estado>
+		</usuario>
+		<usuario id="23">
+			<nome>Gerson Oliveira</nome>
+			<telefone>1165999934</telefone>
+			<idade>66</idade>
+			<estado>Acre</estado>
+		</usuario>
+		<usuario id="24">
+			<nome>Carlos Santos</nome>
+			<telefone>1127999972</telefone>
+			<idade>28</idade>
+			<estado>Amapá</estado>
+		</usuario>
+		<usuario id="25">
+			<nome>Betania Silva</nome>
+			<telefone>1129999970</telefone>
+			<idade>30</idade>
+			<estado>Roraima</estado>
+		</usuario>
+	</agenda>
